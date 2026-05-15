@@ -12,15 +12,16 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me:
+
 
 ```python
 class Kishore:
-    role        = "Data Scientist & ML Engineer"
+    role = "Analytics Consultant | Business Analytics MSc"
+    background = "5+ years Management consulting analytics @ Grant Thornton Stax."
+    learning = ["LLMs", "MLOps", "Advanced ML"]
     location    = "🌏 Colombo, Sri Lanka"
-    company     = "Stax Inc."
     currently   = "Building Full Stack + ML Projects"
-    learning    = ["LLMs", "MLOps", "Data Science]
     deployed    = ["GCP Cloud Run x2", "Firebase", "Streamlit Cloud", "Gradio"]
     passion     = "Turning raw data into intelligent products 🚀"
 
